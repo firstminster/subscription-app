@@ -39,8 +39,8 @@ const Hero = () => {
                     <SubHeading>
                         Grow, learn, and become more successful by reading some of the top article by highly reputable individuals.
                     </SubHeading>
-                    <ModalComponent text="Signup" />
-                    <ModalComponent text="Login" />
+                    <ModalComponent text="Signup" variant="primary" />
+                    <ModalComponent text="Login" variant="danger" />
                 </HeaderContainer>
             </Container>
         </HeroComponent>
